@@ -1,0 +1,34 @@
+_repo: Willis-the-Pilot---A-Sequel-to-the-Swiss-Family-Robinson--13-Or-Adventures-of-an-Emigrant-Fam__14172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paul, Adrien
+    gutenberg_agent_id: '6419'
+    url: http://www.gutenberg.org/2009/agents/6419
+description: ''
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Survival skills -- Juvenile fiction'
+- !lcsh 'Robinsonades'
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Oceania -- Juvenile fiction'
+title: "Willis the Pilot : A Sequel to the Swiss Family Robinson\r\nOr, Adventures\
+  \ of an Emigrant Family Wrecked on an Unknown Coast of the Pacific Ocean"
+url: http://www.gutenberg.org/ebooks/14172
